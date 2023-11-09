@@ -12,5 +12,11 @@ namespace ConsoleApp1
         {
             return a + b;
         }
+
+        static void siusiu()
+        {
+            Console.WriteLine("siusiu");
+        }
     }
+
 }
