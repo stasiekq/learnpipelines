@@ -15,7 +15,7 @@ namespace ConsoleApp1
 
         static void siusiu()
         {
-            Console.WriteLine("siusiu");
+            Console.WriteLine("hehe");
         }
     }
 
